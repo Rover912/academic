@@ -1,0 +1,4 @@
+baseURL = "https://rover912.github.io/academic/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ananke"
